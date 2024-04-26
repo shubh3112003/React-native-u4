@@ -1,0 +1,63 @@
+[
+    {
+      "brand": "Dell",
+      "model": [
+        {
+          "name": "XPS 13",
+          "url": "https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps-13-9310-laptop",
+          "image": "https://m.media-amazon.com/images/I/61+dcb4C8zL._SL1080_.jpg"
+        },
+        {
+          "name": "Inspiron 15 7000",
+          "url": "https://www.dell.com/en-us/shop/dell-laptops/inspiron-15-7000-laptop/spd/inspiron-15-7500-laptop",
+          "image": "https://rukminim2.flixcart.com/image/416/416/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phafdmhc9qj.jpeg?q=70&crop=false"
+        }
+      ]
+    },
+    {
+      "brand": "HP",
+      "model": [
+        {
+          "name": "HP Spectre x360",
+          "url": "https://www.hp.com/us-en/shop/pdp/hp-spectre-x360-laptop-13t-aw200-3p466av-1",
+          "image": "https://m.media-amazon.com/images/I/71CyWemQY9L._SL1500_.jpg"
+        },
+        {
+          "name": "HP Pavilion",
+          "url": "https://www.hp.com/us-en/shop/pdp/hp-pavilion-laptop-15t-eg000-1v0b9av-1",
+          "image": "https://m.media-amazon.com/images/I/711in6rDIWL._SX679_.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "model": [
+        {
+          "name": "MacBook Pro",
+          "url": "https://www.apple.com/macbook-pro-14-and-16/",
+          "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-card-40-macbookpro-14-16-202310?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1699558878477"
+        },
+        {
+          "name": "MacBook Air",
+          "url": "https://www.apple.com/macbook-air/",
+          "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685966374/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256711_umnwok.png"
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "model": [
+        {
+          "name": "ThinkPad X1 Carbon",
+          "url": "https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-10/p/22TP2X1X1C1",
+          "image": "https://m.media-amazon.com/images/I/71wJJL7q8nL._SL1500_.jpg"
+        },
+        {
+          "name": "IdeaPad 5",
+          "url": "https://www.lenovo.com/us/en/laptops/ideapad/ideapad-500-series/IdeaPad-5-15ITL05/p/88IPS501459",
+          "image": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SL1000_.jpg"
+        }
+      ]
+    }
+  ]
+  
